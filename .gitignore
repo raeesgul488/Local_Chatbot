@@ -1,0 +1,21 @@
+# Python Virtual Environments
+.venv/
+venv/
+ENV/
+
+# Python Cache & Compiled Files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# UV & Package Management Cache Files
+.lock
+CACHEDIR.TAG
+
+# Environment Variables & Secrets
+.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
