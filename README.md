@@ -1,5 +1,6 @@
 
-# Local AI Chatbot with Streamlit and Ollama
+# Local AI Chatbot 
+  (with Streamlit and Ollama)
 
 This is a simple, privacy-focused chatbot that runs entirely on your local machine.
 
