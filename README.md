@@ -83,7 +83,7 @@ Run the Streamlit app:
 streamlit run app.py
 ```
 
-<<<<<<< HEAD
+
 ## How it Works
 
 - **Streamlit**: Provides the web-based user interface.
